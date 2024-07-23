@@ -1,0 +1,70 @@
+[
+    {
+        "tag": "h1",
+        "type": 1
+    },
+    {
+        "tag": "h2",
+        "type": 1
+    },
+    {
+        "tag": "h3",
+        "type": 1
+    },
+    {
+        "tag": "h4",
+        "type": 1
+    },
+    {
+        "tag": "h5",
+        "type": 1
+    },
+    {
+        "tag": "h6",
+        "type": 1
+    },
+    {
+        "tag": "button",
+        "type": 1
+    },
+    {
+        "tag": "div",
+        "type": 1
+    },
+    {
+        "tag": "p",
+        "type": 1
+    },
+    {
+        "tag": "a",
+        "type": 1
+    },
+    {
+        "tag": "span",
+        "type": 1
+    },
+    {
+        "tag": "ul",
+        "type": 1
+    },
+    {
+        "tag": "li",
+        "type": 1
+    },
+    {
+        "tag": "title",
+        "type": 2
+    },
+    {
+        "tag": "script",
+        "type": 1
+    },
+    {
+        "tag": "link",
+        "type": 3
+    },
+    {
+        "tag": "img",
+        "type": 3
+    }
+]
